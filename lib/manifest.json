@@ -1,0 +1,33 @@
+{
+    "manifest_version":2,
+    "name": "NSFW-Images Filter",
+    "version": "1.0",
+    "description": "Uses AI to detect and blur NSFW-IMAGES",
+    "author": "Rishav Kumar",
+    "web_accessible_resources": [
+      "assets/icon/*.png"
+    ],
+    "content_scripts" : [
+    {
+    "matches" : [
+    "<all_urls>"
+    ],
+    "js" : ["content.js"]
+    }],
+    "browser_action": {
+    "default_icon": {
+      "16": "assets/icon/icon16.png",
+      "32": "assets/icon/icon32.png",
+      "48": "assets/icon/icon48.png",
+      "128": "assets/icon/icon128.png"
+    }},
+    "icons": {
+      "16": "assets/icon/icon16.png",
+      "32": "assets/icon/icon32.png",
+      "48": "assets/icon/icon48.png",
+      "128": "assets/icon/icon128.png"
+    }
+
+}
+ 
+    
