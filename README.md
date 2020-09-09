@@ -1,4 +1,4 @@
-![](nsfw(1).png)
+![](nsfw.png)
 # NSFW-Images-Filter
 An extension for filtering NSFW-Images
 
