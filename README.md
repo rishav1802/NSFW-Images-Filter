@@ -10,4 +10,6 @@ How to install:
 * select the lib folder in this repo 
 * The extension is loaded now.
 
+NSFW-endpoint used: https://github.com/rishav1802/NSFW-image-detector
+
 
