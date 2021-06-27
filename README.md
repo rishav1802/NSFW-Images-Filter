@@ -1,6 +1,6 @@
-![](nsfw.png)
+
 # NSFW-Images-Filter
-An extension for filtering NSFW-Images
+A chrome extension for filtering NSFW-Images
 
 
 How to install:        
